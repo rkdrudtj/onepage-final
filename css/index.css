@@ -111,6 +111,45 @@ header>.btn{
 #box01>p.link{
   position:absolute;
 }
+/* box02 */
+#box02{
+  background-color: #e8e8e8;
+
+}
+#box02>div{
+  width:1115px;
+  margin:0 auto;
+
+
+}
+ #box02 .box{
+  position:relative;
+  padding-left:429px;
+
+}
+#box02 .box>figure{
+  position:absolute;
+  left:0;top:0;
+  width:429px;
+}
+#box02 .box>div p.text{
+  line-height: 30px;
+  margin-bottom:45px;
+
+}
+#box02 .box>div p.btn{
+  text-align: right;
+}
+#box02 .box>div p.btn>button{
+  width:196px;
+  height:53px;
+  background-color: #949494;
+  border:none;
+  color:#fff;
+  font-size:20px;
+  border-radius: 26px;
+} 
+
 
 
 
