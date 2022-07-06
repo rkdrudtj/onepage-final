@@ -148,7 +148,52 @@ header>.btn{
   color:#fff;
   font-size:20px;
   border-radius: 26px;
-} 
+ } 
+ /* box03*/
+ #box03{}
+ #box03>div{
+  width:1300px;
+  margin:0 auto;
+ }
+ #box03 .box{
+  display:flex;
+  flex-wrap:wrap;
+ }
+
+ #box03 .box>p.text{
+  line-height: 30px; 
+
+ }
+ #box03 .box>div{
+  width:50%;
+  width:493px;
+ }
+ #box03 .box>ul{
+  width:50%;
+
+ }
+ #box03 .box>ul>li{
+  width:80px;
+  height:80px;
+  margin:0 8px 16px;
+  border:2px solid #cbcbcb;
+  float:left;
+  text-indent: -99999px;
+  background: url('../images/icon/html5.png') no-repeat center;
+
+ }
+ #box03 .box>ul>li:nth-child(2){background:url('../images/icon/bootstrap.png')};
+ #box03 .box>ul>li:nth-child(3){background:url('../images/icon/css3.png')};
+ #box03 .box>ul>li:nth-child(4){background:url('../images/icon/javascript.png')};
+ #box03 .box>ul>li:nth-child(5){background:url('../images/icon/jquery.png')};
+ #box03 .box>ul>li:nth-child(6){background:url('../images/icon/npm.png')};
+ #box03 .box>ul>li:nth-child(7){background:url('../images/icon/sass.png')};
+ #box03 .box>ul>li:nth-child(8){background:url('../images/icon/react.png')};
+ #box03 .box>ul>li:nth-child(9){background:url('../images/icon/sass.png')};
+ #box03 .box>ul>li:nth-child(10){background: url('../images/icon/vue.png')};
+ #box03 .box>ul>li:nth-child(11){background: url('../images/icon/git.png')};
+ #box03 .box>ul>li:nth-child(12){background: url('../images/icon/react.png')};
+
 
 
 
