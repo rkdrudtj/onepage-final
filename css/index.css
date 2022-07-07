@@ -194,6 +194,63 @@ header>.btn{
  #box03 .box>ul>li:nth-child(11){background: url('../images/icon/git.png')};
  #box03 .box>ul>li:nth-child(12){background: url('../images/icon/react.png')};
 
+/* box04 */
+#box04{
+  background-color: #c3c3c3;
+  text-align: center;
+}
+  
+#box04 div>.title{
+  color:red;
+  text-align: center;
+}
+#box04 div>.text{
+  line-height: 30px;
+  margin-bottom: 35px;
+  color:red;
+  text-align: center;
+}
+#box04 div>ul{
+  text-align: center;
+  margin-bottom: 40px;
+}
+#box04 div>ul>li{
+  display: inline-block;
+  padding:0 20px;
+  border-left:1px solid red;
+  color:red;
+  text-align: center;
+
+
+}
+#box04 div>ul>li:first-child{
+  border-left:none;
+}
+#box04 div>ul>li>a{
+  color:red;
+}
+#galley #all{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  text-align: center;
+}
+#galley figure{
+   width:calc(33%-46px); 
+    margin-bottom: 46px;  
+  color:red;
+}
+#galley figure>img{
+  margin-bottom: 23px;  
+}
+#galley .prev{
+  display: none;
+
+}
+#galley .next{
+  display: none;
+
+}
 
 
 
