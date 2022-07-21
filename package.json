@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html",
-    "build":"parcel build index.html"
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jqeury": "^0.0.1-security",
+    "jquery": "^3.6.0",
     "parcel-bundler": "^1.12.5"
   }
 }
